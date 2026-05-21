@@ -1,4 +1,4 @@
-# Acadassist 🎓
+# Acadassist 
 > A modern, enterprise-ready Academic ERP and student productivity desktop application engineered with Java Swing, MySQL, and Maven.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@ Acadassist is a comprehensive desktop platform designed to streamline academic r
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Modern Dark/Light UI:** Designed with a responsive grid architecture powered by **FlatLaf**, providing a cohesive desktop experience.
 * **Secure User Management:** End-to-end secure user authentication system utilizing **jBCrypt** to hash and salt sensitive user credentials before database commit.
@@ -20,7 +20,7 @@ Acadassist is a comprehensive desktop platform designed to streamline academic r
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 The application follows a clean decoupling layer pattern (UI -> Controller/DAO -> Database Context) to ensure ease of testing and component isolation.
 
@@ -33,7 +33,7 @@ The application follows a clean decoupling layer pattern (UI -> Controller/DAO -
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 Ensure you have Java Development Kit (JDK) 24 and Maven installed on your machine before setup.
 
